@@ -6,4 +6,4 @@
   https://www.un.org/en/events/mandeladay/tribute.shtml
 
 # HERE IS A LINK TO PREVIEW THE PAGE
-https://chidu100.github.io/tribute-page/
+https://chidu100.github.io/tribute-page.github.io/
